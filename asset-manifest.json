@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/React-Note-App/static/css/main.27ada87d.chunk.css",
+    "main.js": "/github.io/React-Note-App/static/js/main.49b1a4c0.chunk.js",
+    "main.js.map": "/github.io/React-Note-App/static/js/main.49b1a4c0.chunk.js.map",
+    "runtime-main.js": "/github.io/React-Note-App/static/js/runtime-main.f2b05a8c.js",
+    "runtime-main.js.map": "/github.io/React-Note-App/static/js/runtime-main.f2b05a8c.js.map",
+    "static/js/2.79510676.chunk.js": "/github.io/React-Note-App/static/js/2.79510676.chunk.js",
+    "static/js/2.79510676.chunk.js.map": "/github.io/React-Note-App/static/js/2.79510676.chunk.js.map",
+    "index.html": "/github.io/React-Note-App/index.html",
+    "precache-manifest.54a9a2f8873d4f8d6fbd6f12b0d1f148.js": "/github.io/React-Note-App/precache-manifest.54a9a2f8873d4f8d6fbd6f12b0d1f148.js",
+    "service-worker.js": "/github.io/React-Note-App/service-worker.js",
+    "static/css/main.27ada87d.chunk.css.map": "/github.io/React-Note-App/static/css/main.27ada87d.chunk.css.map",
+    "static/js/2.79510676.chunk.js.LICENSE.txt": "/github.io/React-Note-App/static/js/2.79510676.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2b05a8c.js",
+    "static/js/2.79510676.chunk.js",
+    "static/css/main.27ada87d.chunk.css",
+    "static/js/main.49b1a4c0.chunk.js"
+  ]
+}
